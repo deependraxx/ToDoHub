@@ -53,16 +53,9 @@ Contributions are welcome! Here's how you can contribute:
 
 Please make sure to update tests as appropriate.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
 Your Name - [@deependraxx](https://twitter.com/deependraxx) - deependrasingh404e@gmail.com
 
 Project Link: [https://github.com/deependraxx/todohub](https://github.com/deependraxx/todohub)
 
-## Acknowledgements
-
-- Mention any libraries or resources that you used.
