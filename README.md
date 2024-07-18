@@ -50,7 +50,7 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-Your Name - [@deependraxx](https://twitter.com/deependraxx) - deependrasingh404e@gmail.com
+Deependra Singh - [@deependraxx](https://twitter.com/deependraxx) - deependrasingh404e@gmail.com
 
 Project Link: [https://github.com/deependraxx/todohub](https://github.com/deependraxx/todohub)
 
