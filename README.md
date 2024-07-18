@@ -1,7 +1,3 @@
-# ToDoHub
-Certainly! Here's an updated README file tailored for your project named "TodoHub":
-
----
 
 # TodoHub
 
@@ -12,8 +8,7 @@ TodoHub is a simple web application built with HTML, CSS, and JavaScript for man
 - **Add Task**: Easily add tasks to the list.
 - **Delete Task**: Remove tasks from the list.
 - **Store Tasks**: Uses local storage to persist tasks even after refreshing the page.
-- **Responsive Design**: Ensures usability on various screen sizes.
-
+  
 ## Technologies Used
 
 - HTML5
